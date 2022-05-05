@@ -1,3 +1,3 @@
 # HTMLCSS_Lecture
 
-유데미 강의들은코드
+Code Repository for Udemy lecture "Build Responsive Real-World Websites with HTMl and CSS"
